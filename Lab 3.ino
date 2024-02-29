@@ -4,7 +4,7 @@ const int potPin = A0;
 
 int i = 2;
 int buttonState = 0;
-int potVal = 0;
+int potVal = 
 
 int delayVal = 0;
 
