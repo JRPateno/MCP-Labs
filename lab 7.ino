@@ -103,7 +103,7 @@ void loop() {
     } 
 
     else {
-    lcd.clear();
-    lcd.print("GET CLOSER");
+        lcd.clear();
+        lcd.print("GET CLOSER");
     }
 }
